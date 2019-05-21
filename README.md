@@ -1,4 +1,4 @@
-# kurstest
-Test für digital humanities Kurs 2018
+﻿# kurstest
+Test für digital humanities Kurs 2019
 
-Das ist mein erster Versuch einer Änderung.
+Hallo!
