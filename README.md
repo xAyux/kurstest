@@ -1,5 +1,5 @@
 ﻿# kurstest
-Test für digital humanities Kurs 2019
+Test für digital humanities Kurs 2020
 
 Hallo!
 
